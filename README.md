@@ -95,4 +95,3 @@ This project demonstrates practical applications of several digital design conce
 Project for course Digital Design
 International University of Sarajevo
 
-⭐ *A Logisim project demonstrating the fundamentals of sequential and combinational digital circuit design.*
